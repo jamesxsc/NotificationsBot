@@ -4,3 +4,7 @@ test export/**
 .project
 *.iml
 *.jar
+
+.settings
+/.settings/
+.settings/**
