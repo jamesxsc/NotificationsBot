@@ -1,0 +1,7 @@
+NotificationsOpt/target
+NotificationsOpt/test export
+.project
+.classpath
+NotificationsOpt/.settings
+*.jar
+*.iml
